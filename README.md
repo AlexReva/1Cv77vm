@@ -1,6 +1,8 @@
 1Cv77 Virtual Machine
 =======
 
+Using MS VS 2010 or higher.
+
 Usage:
 
   After assembly, place the library in the bin folder 1C.
